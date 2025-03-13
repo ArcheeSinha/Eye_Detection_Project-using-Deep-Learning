@@ -25,7 +25,7 @@ Follow these steps to **run the project locally**:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone ........
+git clone https://github.com/ArcheeSinha/Eye_Detection_Project-using-Deep-Learning.git
 cd Eye-Disease-Detection
 ```
 
