@@ -42,7 +42,7 @@ python app.py
 The app will start at **http://127.0.0.1:5000/**.
 
 Demo link: https://drive.google.com/file/d/18YfuW0Uii1W1FiXD8wDPu0fAOWe_Mqf8/view?usp=sharing
----
+
 
 ## 🏗️ Project Structure
 ```
